@@ -1,4 +1,4 @@
-<img width="1451" height="870" alt="Screenshot 2026-06-05 at 11 24 18 PM" src="https://github.com/user-attachments/assets/9b772e40-24d5-460e-9dae-fa0d8a8a0c33" />#  1. Project Title
+# 1. Project Title
 ## Student Performance & Career Path Predictor
 
 ---
@@ -30,10 +30,12 @@ Follow these steps to set up the project on your local machine:
    git clone [https://github.com/Ayushi2507-gif/Student-Performance-Career-Predictor.git](https://github.com/Ayushi2507-gif/Student-Performance-Career-Predictor.git)
 
 2. **Navigate to the Project Folder:**
+bash
    cd Student-Performance-Career-Predictor
 
 3. **Install Required Packages:**
 Make sure you have Python installed, then run:
+bash
    pip install streamlit pandas matplotlib
 
 ---
@@ -49,6 +51,7 @@ streamlit run app.py
 
 ##  6. Output and Screenshots
 The interactive web interface consists of a dynamic sidebar navigation menu containing three functional modes:
+
 1. Welcome Screen: The entry point introducing users to the tool.
 2. 12th Pass Component: Users shift sliders to receive instantly refreshed career recommendations.
 4. University Dashboard: Faculty enters a Student ID to query profiles, generating visual progress charts along with context-aware performance remarks.
