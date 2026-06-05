@@ -3,7 +3,7 @@
 
 ---
 
-##  2. Project Description
+## 2. Project Description
 Traditional educational tracking systems often keep marks and attendance scattered, making it hard to evaluate a student's true potential. Moreover, rigid systems penalize students for low attendance without considering personal struggles.
 
 To solve this, this project introduces a **Dual-Mode System**:
@@ -13,7 +13,7 @@ To solve this, this project introduces a **Dual-Mode System**:
 
 ---
 
-##  3. Technologies Used
+## 3. Technologies Used
 The application is built using a modern Python-based data science stack:
 - **Python:** For drafting the core tiered-rules and contextual analysis engine.
 - **Streamlit:** For designing the interactive web application layout and side navigation menu.
@@ -22,34 +22,37 @@ The application is built using a modern Python-based data science stack:
 
 ---
 
-##  4. Installation Steps
+## 4. Installation Steps
 Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/Ayushi2507-gif/Student-Performance-Career-Predictor.git](https://github.com/Ayushi2507-gif/Student-Performance-Career-Predictor.git)
+   git clone [https://github.com/Ayushi2507-gif/Student-Performance-Career-Predictor.git](https://github.com/Ayushi2507-gif/Student-Performance-Career-Predictor.git)```
 
 2. **Navigate to the Project Folder:**
-bash
+```bash
    cd Student-Performance-Career-Predictor
+```
 
 3. **Install Required Packages:**
 Make sure you have Python installed, then run:
-bash
+```bash
    pip install streamlit pandas matplotlib
+```
 
 ---
 
-##  5. How to Run the Project
+## 5. How to Run the Project
 
 To launch the web application locally, execute the following command in your terminal:
 
 ```bash
 streamlit run app.py
+```
 
 ---
 
-##  6. Output and Screenshots
+## 6. Output and Screenshots
 The interactive web interface consists of a dynamic sidebar navigation menu containing three functional modes:
 
 1. Welcome Screen: The entry point introducing users to the tool.
@@ -63,3 +66,5 @@ The interactive web interface consists of a dynamic sidebar navigation menu cont
 ##  7. Authors
 Ayushi Gupta - Lead Developer & Logic Architect
 Akash Pandey - Co-Developer & Presentation Lead
+
+---
