@@ -64,7 +64,7 @@ The interactive web interface consists of a dynamic sidebar navigation menu cont
 ---
 
 ##  7. Authors
-Ayushi Gupta - Lead Developer & Logic Architect
-Akash Pandey - Co-Developer & Presentation Lead
+-Ayushi Gupta - Lead Developer & Logic Architect
+-Akash Pandey - Co-Developer & Presentation Lead
 
 ---
